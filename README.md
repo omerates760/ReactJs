@@ -17,6 +17,9 @@ composer install
 And JS dependancies:
 
 > npm install
+Run
+1. php artisan serve
+2. npm start
 ![Image of project](https://github.com/omerates760/ReactJs/blob/master/img2.png)
 ![Image of project1](https://github.com/omerates760/ReactJs/blob/master/img1.png)
 ![Image of project2](https://github.com/omerates760/ReactJs/blob/master/img3.png)
